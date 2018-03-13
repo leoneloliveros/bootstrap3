@@ -1,0 +1,14 @@
+.body-container {
+  margin-top: 80px;
+}
+.thumbnail-container {
+  margin-top: 10px;
+}
+.flat {
+  background-color: blue;
+}
+@media screen and (max-width: 991px){
+  .categoria {
+    display: none;
+  }
+}
